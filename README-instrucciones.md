@@ -5,15 +5,15 @@ Sigue las siguientes instrucciones en su debido orden:
 
 **1. Instalación Power BI x64 DESKTOP.**
 
-- ![Instalacion-Power-BI-x64-desktop](#) [https://github.com/sanrulo1030/Optimizacion-rutas-autobus-intercampus-ITM/blob/main/Instalacion-Power-BI-x64-desktop/Guia-instalacion-Power-BI-x64-bits.md]
+- ![Instalacion-Power-BI-x64-desktop](https://github.com/sanrulo1030/Optimizacion-rutas-autobus-intercampus-ITM/blob/main/Instalacion-Power-BI-x64-desktop/Guia-instalacion-Power-BI-x64-bits.md)
 
 **2. Inicio de sesión.**
 
-- ![Inicio-de-sesion](#) [https://github.com/sanrulo1030/Optimizacion-rutas-autobus-intercampus-ITM/blob/main/Inicio-de-sesion/Inicio-de-sesion-power-BI-desktop-y-online.md]
+- ![Inicio-de-sesion](https://github.com/sanrulo1030/Optimizacion-rutas-autobus-intercampus-ITM/blob/main/Inicio-de-sesion/Inicio-de-sesion-power-BI-desktop-y-online.md)
 
 **3. Ejecución solución proyecto optimización rutas intercampus.**
 
-- ![Ejecicio-solucion-proyecto-optimizacion-rutas-intercampus](#) [https://github.com/sanrulo1030/Optimizacion-rutas-autobus-intercampus-ITM/blob/main/Ejecucion-solucion-proyecto-optimizaci%C3%B3n-rutas-intercampus/Ejecucion-solucion-proyecto-optimizacion-rutas-intercampus.md]
+- ![Ejecicio-solucion-proyecto-optimizacion-rutas-intercampus](https://github.com/sanrulo1030/Optimizacion-rutas-autobus-intercampus-ITM/blob/main/Ejecucion-solucion-proyecto-optimizaci%C3%B3n-rutas-intercampus/Ejecucion-solucion-proyecto-optimizacion-rutas-intercampus.md)
 
 
 **Agradecimientos a en el marco de investigación del programa Jóvenes investigadores ITM.** 
