@@ -1,4 +1,4 @@
-# Jóvenes-investigadores
+# Optimización de rutas intercampus ITM
 Desarrollo de un sistema de análisis y optimización de rutas de transporte  intercampus utilizando Power BI y Python, con el fin de mejorar la  eficiencia y la satisfacción del usuario en el servicio de transporte entre campus de la universidad ITM.
 
 Para desplegar la aplicación seguir las siguientes instrucciones:
