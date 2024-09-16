@@ -16,9 +16,9 @@
 
 3. **Ingresar dirección URL**
 
-   - Ingresa el siguiente link que tiene como para metros una serie de instrucciones seleccionadas para realizar una optimización dentro de varias opciones ofrecidas desde la API DE AZURE MAPS. 
-
-[**LINK:**](https://github.com/sanrulo1030/Optimizacion-rutas-autobus-intercampus-ITM/blob/main/Ejecucion-solucion-proyecto-optimizaci%C3%B3n-rutas-intercampus/link-origen-datos-API-azure.txt)   
+   - Para obtener una apiKey, sigue las siguientes instrucciones para la guia detalla para obtener apiKey - Subscription key. [**LINK:Azure Maps - Subscription key**](https://github.com/sanrulo1030/Optimizacion-rutas-autobus-intercampus-ITM/blob/main/Azure%20API%20Rest%20-%20Subscription%20key/Subscripcion-key%E2%80%93Azure-Maps.md)
+     
+   - Ingresa el siguiente link que tiene como para metros una serie de instrucciones seleccionadas para realizar una optimización dentro de varias opciones ofrecidas desde la API DE AZURE MAPS. **Nota:** debes modificar la apiKey que está marcada con asteriscos en la siguiente URL.[**LINK: URL**](https://github.com/sanrulo1030/Optimizacion-rutas-autobus-intercampus-ITM/blob/main/Ejecucion-solucion-proyecto-optimizaci%C3%B3n-rutas-intercampus/link-origen-datos-API-azure.txt)   
 
   **NOTA:** Para entender un poco más sobre la parametrización del links y otros parámetros ajustables, por favor consulta la documentación de la API DE AZURE MAPS, [DOCUMENTACIÓN API AZURE MAPS](https://learn.microsoft.com/en-us/rest/api/maps/route/get-route-directions?view=rest-maps-2024-04-01&tabs=HTTP). 
 
