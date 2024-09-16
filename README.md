@@ -11,9 +11,14 @@ Para desplegar la aplicación seguir las siguientes instrucciones:
 
 - [Inicio-de-sesion](https://github.com/sanrulo1030/Optimizacion-rutas-autobus-intercampus-ITM/blob/main/Inicio-de-sesion/Inicio-de-sesion-power-BI-desktop-y-online.md)
 
-**3. Ejecución solución proyecto optimización rutas intercampus.**
+**3. Obtener apiKey Azure API Rest - Subscription key .**
+
+- [Obtener-apiKey-Azure-API-Rest-Subscription-key](https://github.com/sanrulo1030/Optimizacion-rutas-autobus-intercampus-ITM/blob/main/Ejecucion-solucion-proyecto-optimizaci%C3%B3n-rutas-intercampus/Ejecucion-solucion-proyecto-optimizacion-rutas-intercampus.md)
+
+**4. Ejecución solución proyecto optimización rutas intercampus.**
 
 - [Ejecicio-solucion-proyecto-optimizacion-rutas-intercampus](https://github.com/sanrulo1030/Optimizacion-rutas-autobus-intercampus-ITM/blob/main/Ejecucion-solucion-proyecto-optimizaci%C3%B3n-rutas-intercampus/Ejecucion-solucion-proyecto-optimizacion-rutas-intercampus.md)
+
 
 
 **Agradecimientos a en el marco de investigación del programa Jóvenes investigadores ITM.** 
