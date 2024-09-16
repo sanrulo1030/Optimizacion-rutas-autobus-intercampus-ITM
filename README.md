@@ -17,7 +17,7 @@ Para desplegar la aplicación seguir las siguientes instrucciones:
 
 **4. Ejecución solución proyecto optimización rutas intercampus.**
 
-- [Ejercicio-solucion-proyecto-optimizacion-rutas-intercampus](https://github.com/sanrulo1030/Optimizacion-rutas-autobus-intercampus-ITM/blob/main/Ejecucion-solucion-proyecto-optimizaci%C3%B3n-rutas-intercampus/Ejecucion-solucion-proyecto-optimizacion-rutas-intercampus.md)
+- [Ejercicio-solucion-proyecto-optimizacion-rutas-intercampus](https://github.com/sanrulo1030/Optimizacion-rutas-autobus-intercampus-ITM/blob/main/Azure%20API%20Rest%20-%20Subscription%20key/Subscripcion-key%E2%80%93Azure-Maps.md)
 
 
 
