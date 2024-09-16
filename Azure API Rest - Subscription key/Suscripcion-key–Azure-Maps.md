@@ -1,4 +1,4 @@
-# Guía Detallada para obetener apiKey de Suscripcion key Azure Maps.md
+# Guía Detallada para obtener apiKey de Suscripcion key Azure Maps.md
 
 Sigue estos pasos para obtener la apiKey, necesaria en el proceso de las variables parámetros de la URL para la obtención de datos mediante la API Rest de Azure Maps
 
